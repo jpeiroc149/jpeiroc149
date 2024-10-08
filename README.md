@@ -39,7 +39,7 @@
 </p>
 
 <h2>💫 Acerca de mí</h2>
-  <p>Graduado en Business Intelligence and Analytics y estudiante del máster de Inteligencia Artificial en la Universidad de Valencia. Actualmente cubro una posición de Data Analytics Engineer en Volkswagen Group Services.</p>
+  <p>Graduado en Business Intelligence and Analytics y estudiante del máster de Inteligencia Artificial en la Universidad de Valencia. Actualmente cubro una posición de Data Analyst en Deloitte.</p>
 
 <h3>🔭 Proyectos Profesionales en curso... </h3>
 
