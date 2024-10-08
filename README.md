@@ -39,9 +39,22 @@
 </p>
 
 <h2>💫 Acerca de mí</h2>
-  <p>Graduado en Business Intelligence and Analytics y estudiante del máster de Inteligencia Artificial en la Universidad de Valencia. Actualmente cubro una posición de Data Analyst en Deloitte.</p>
+  <p>Graduado en Business Intelligence and Analytics y estudiante del máster de Inteligencia Artificial en la Universidad de Valencia. Actualmente cubro una posición de Data Analytics Engineer en Volkswagen Group Services.</p>
 
 <h3>🔭 Proyectos Profesionales en curso... </h3>
+<h4>Data Analytics Engineer for Industrial Automation en Volkswagen Group</h4>
+<div style="text-align: center;">
+    <img src="Volkswagen.png" alt="Volkswagen Group Logo" style="width: 100px;">
+</div>
+<ul>
+    <li>Barcelona y alrededores</li>
+    <li>Estrategia y gobernanza del dato - DataOps</li>
+    <li>Elaboración de dashboards - Power BI, Tableau</li>
+    <li>Creación, administración y gestión de bases de datos - Azure Data Services</li>
+    <li>Planes de automatización ETL - Azure Data Factory, Power Automate, Polars</li>
+    <li>Orquestación ETL - Apache AirFlow</li>
+    <li>Creación de aplicaciones de negocio - Power Apps</li>
+</ul>
 
 <h4>Event Manager en Economia DataTech</h4>
 <div style="text-align: center;">
