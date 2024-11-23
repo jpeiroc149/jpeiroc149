@@ -2,7 +2,7 @@
   <code><h1 align="center">print("<span style="color:blue;">Hello World</span> ")</code>...   soy Jose Peiró! 👋</h1> 
   <h3 align="center">Data Analytics | BI | AI</h3>
   ¡Bienvenido a mi portfolio de GitHub! 
-  Aquí encontrarás un resumen de mi trayectoria, proyectos destacados (o no porque soy un desastre con estas cosas... 😆) y cómo ponerte en contacto conmigo.
+  Aquí encontrarás un resumen de mi trayectoria, proyectos destacados y cómo ponerte en contacto conmigo.
 </p>
     <p align="center">
       <a href="https://www.linkedin.com/in/josepeirocardona" target="_blank" rel="noreferrer"> 
@@ -40,9 +40,17 @@
 </p>
 
 <h2>💫 Acerca de mí</h2>
-  <p>Graduado en Business Intelligence and Analytics y estudiante del máster de Inteligencia Artificial en la Universidad de Valencia. Actualmente cubro una posición de Data Analyst en Deloitte.</p>
+  <p>Graduado en Business Intelligence and Analytics y estudiante del máster de Inteligencia Artificial en la Universidad de Valencia. Actualmente cubro una posición de Analyst en Deloitte.</p>
 
 <h3>🔭 Proyectos Profesionales en curso... </h3>
+
+<h4>Analyst en Deloitte</h4>
+<div style="text-align: center;">
+    <img src="deloitte_logo.jpg" alt="Deloitte Logo" style="width: 100px;">
+</div>
+<ul>
+    <li>Barcelona, Cataluña, España</li>
+</ul>
 
 <h4>Event Manager en Economia DataTech</h4>
 <div style="text-align: center;">
